@@ -1,17 +1,20 @@
-<h2 align="left">
+<h2 align="center">
  <abc>
   <br> I'm Luis Pantoja, Frontend Web Developer :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" align="center">
  </abc>
 </h2> 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=luispantoja1102&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luispantoja1102&layout=compact)](https://github.com/luispantoja1102/github-readme-stats)
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luispantoja1102&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luispantoja1102&layout=compact&langs_count=12&theme=dracula"/>
+</div>
+
 <hr>
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
+<h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
